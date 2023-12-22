@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253116903593",
+    "project_id": "asu-carpool-dd1a9",
+    "storage_bucket": "asu-carpool-dd1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253116903593:android:8988900d693b5440d479b8",
+        "android_client_info": {
+          "package_name": "com.example.carpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0FQi39tmtA1rxP1g9OhXYhu0HPFxHco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253116903593:android:d731d59cb570e39fd479b8",
+        "android_client_info": {
+          "package_name": "com.example.driver_carpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0FQi39tmtA1rxP1g9OhXYhu0HPFxHco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
