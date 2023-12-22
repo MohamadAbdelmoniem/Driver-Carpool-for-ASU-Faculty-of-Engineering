@@ -69,7 +69,7 @@ CarPool is a Flutter application for ride-sharing and managing trips. It provide
 
 - `flutter/material.dart`: Core Flutter framework for building UI.
 - `cloud_firestore`: Firebase Firestore for database interactions.
-- - `cloud_firestore: ^4.13.5`
+- `cloud_firestore: ^4.13.5`
 - `firebase_auth: ^4.15.2`
 - `firebase_core: ^2.24.2`
 - `firebase_messaging: ^14.7.8`
